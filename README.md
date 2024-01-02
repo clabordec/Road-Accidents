@@ -1,5 +1,3 @@
-# Road Accidents
-
 # Project Overview
 
 The client wants a Road Accident Dashboard created for years between 2021 and 2022 so that they can have insight on the folloiwng requirements:
