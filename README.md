@@ -11,3 +11,17 @@ The client wants a Road Accident Dashboard created for years between 2021 and 20
 - Maximum casualties by road type
 - Distribution of total casualties by area/location and by day/night
 - Relation between casualties by area/location and by day/night
+
+<br>
+
+## Stakeholders Invovled
+
+- Ministry of Transport
+- Road Transport Department
+- Police Force
+- Emergency Services Department
+- Road Saftey Corps
+- Transport Operators
+- Traffic Management Agencies
+- Public
+- Media
