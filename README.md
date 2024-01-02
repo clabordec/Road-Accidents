@@ -25,3 +25,11 @@ The client wants a Road Accident Dashboard created for years between 2021 and 20
 - Traffic Management Agencies
 - Public
 - Media
+
+<br>
+
+## MetaData
+
+- File Extension - .xlsx
+- Number of Rows - 3.07 Million
+- Number of Fields - 21
